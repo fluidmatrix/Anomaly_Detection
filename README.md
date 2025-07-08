@@ -7,3 +7,4 @@ namely, the blood sugar level and Insulin Level.
 The Algorithm marks anomalies that are outliers, and predict label y = 1, where the algorithm think that the
 patient is dibetic, and 0, where it does not.
 
+![image](https://github.com/user-attachments/assets/98d0040e-ae54-4e31-86f4-abb38fc34cce)
